@@ -1,6 +1,6 @@
 # Aplikasi Pelaporan Barang Rusak
 
-Aplikasi ini adalah sistem pelaporan barang rusak berbasis API menggunakan Node.js. Pengguna dapat melaporkan barang yang rusak dan mengelola status pelaporan melalui antarmuka yang disediakan.
+Aplikasi ini adalah sistem pelaporan barang rusak berbasis API menggunakan Node.js. Pengguna dapat melaporkan barang yang rusak.
 
 ## Fitur
 
